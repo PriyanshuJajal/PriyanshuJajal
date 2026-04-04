@@ -84,7 +84,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuJajal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuJajal&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
