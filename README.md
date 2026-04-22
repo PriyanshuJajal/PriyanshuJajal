@@ -81,14 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuJajal&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
----
-
 <h3 align="center" style="font-size: 30px;">
   <b>Let's connect. Let's collaborate. Let's build. 🤝</b>
 </h3>
