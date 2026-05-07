@@ -58,11 +58,15 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br>
       <sub><b>MongoDB</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br>
       <sub><b>C++</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="C++"/><br>
+      <sub><b>GO</b></sub>
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br>
@@ -71,6 +75,10 @@
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>
       <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="C++"/><br>
+      <sub><b>Python</b></sub>
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL"/><br>
