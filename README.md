@@ -85,14 +85,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuJajal&layout=compact" alt="Top Languages" height="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuJajal&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</div>
-
----
-
 <h3 align="center" style="font-size: 30px;">
   <b>Let's connect. Let's collaborate. Let's build. 🤝</b>
 </h3>
